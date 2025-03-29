@@ -23,9 +23,7 @@ repository               : "ClaraRus/ClaraRus.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Clara Rus"
   pronouns         : # example: "she/her"  
-  bio              : "I am a PhD candidate at the University of Amsterdam, part of the Information Retrieval Lab (IRLab) and the project 'Fairness and Intersectional Non-Discrimination in Human Recommendation' (FINDHR), a European collaborative project that investigates equal opportunities in recruitment. My research focuses on 'fairness aware' rankings for recruitment."
   location         : "Amsterdam, NL"
   employer         : "University of Amsterdam"
   uri              : # URL
