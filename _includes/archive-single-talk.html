@@ -32,9 +32,7 @@
         {{ title }}
       {% endif %}
     </h3>
-    {% if post.description %}
-      <p class="page__meta"> {{ post.description }} </p>
-    {% endif %}
+
     {% if post.read_time %}
       <p class="archive__item-excerpt"><i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
