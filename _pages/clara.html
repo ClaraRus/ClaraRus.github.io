@@ -9,6 +9,12 @@ author_profile: true
         Overall my research focuses on trustworthy and responsible AI, particularly on fairness-aware learning to rank. Additionally my PhD is funded by the EU Horizon interdisciplinary project <a href="https://findhr.eu/">FINDHR</a>, which focuses on fairness in algorithmic hiring. </p>
         <a href="https://clararus.github.io/files/Clara_Rus_Academic_CV.pdf" class="cv-button">View CV</a>
 </section>
+<section id="news">
+    <h2>News</h2>
+    {% for post in site.talks reversed %}
+      {% include archive-single-talk.html %}
+    {% endfor %}
+</section>
 
 <style>
     .cv-button {
@@ -26,8 +32,5 @@ author_profile: true
     }
 </style>
 
-<h2><News/h2>
 
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
-{% endfor %}
+
