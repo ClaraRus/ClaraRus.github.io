@@ -4,7 +4,7 @@ authors: 'Clara Rus, Jeffrey Luppes, Harrie Oosterhuis, Gido H Schoenmacker'
 collection: publications
 category: manuscripts
 excerpt: 'The goal of this work is to help mitigate the already existing gender wage gap by supplying unbiased job recommendations based on resumes from job seekers. We employ a generative adversarial network to remove gender bias from word2vec representations.'
-date: 2022-09-20
+date: 2022
 venue: 'Recsys@HR'
 slidesurl: 'http://clararus.github.io/files/Recsys@HR22_slides.pdf'
 paperurl: 'http://clararus.github.io/files/Recsys@HR22_paper.pdf'

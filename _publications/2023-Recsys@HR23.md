@@ -1,0 +1,13 @@
+---
+title: "Counterfactual Representations for Intersectional Fair Ranking in Recruitment"
+authors: 'Clara Rus, Maarten de Rijke and Andrew Yates'
+collection: publications
+category: manuscripts
+excerpt: 'Fairness interventions require access to sensitive attributes of candidates applying for a job, which might not be available due to limitations imposed by data protection laws. In this work we propose using a pre-processing technique to create counterfactual representations of the candidates that lead to a more diverse ranking with respect to intersectional groups.'
+date: 2023
+venue: 'Recsys@HR'
+slidesurl: 'http://clararus.github.io/files/Recsys@HR23_slides.pdf'
+paperurl: 'http://clararus.github.io/files/Recsys@HR23_paper.pdf'
+bibtexurl: 'http://clararus.github.io/files/Recsys@HR23.bib'
+---
+
