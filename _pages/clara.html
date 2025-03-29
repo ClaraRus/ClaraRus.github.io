@@ -25,3 +25,9 @@ author_profile: true
         text-decoration: none;
     }
 </style>
+
+<h2><News/h2>
+
+{% for post in site.talks reversed %}
+  {% include archive-single-talk.html %}
+{% endfor %}
