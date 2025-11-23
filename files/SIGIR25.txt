@@ -1,0 +1,7 @@
+@inproceedings{xu2025fairdiverse,
+  title={FairDiverse: A comprehensive toolkit for fairness-and diversity-aware information retrieval},
+  author={Xu, Chen and Deng, Zhirui and Rus, Clara and Ye, Xiaopeng and Liu, Yuanna and Xu, Jun and Dou, Zhicheng and Wen, Ji-Rong and de Rijke, Maarten},
+  booktitle={Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval},
+  pages={3540--3550},
+  year={2025}
+}
