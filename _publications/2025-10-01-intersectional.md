@@ -1,5 +1,5 @@
 ---
-title: "Judiciously Reducing Sub-group Comparisons \\ for Learning Intersectional Fair Representations"
+title: "Judiciously Reducing Sub-group Comparisons for Learning Intersectional Fair Representations"
 authors: 'Clara Rus, Andrew Yates, Maarten de Rijke'
 collection: publications
 category: manuscripts
